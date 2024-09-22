@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/siddh/OneDrive/Desktop/Projects/End-to-end%20House%20price%20pred/mlruns/0/5b8e5480ee504f2e884cbbc124099d90/artifacts
+end_time: 1727010288780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b8e5480ee504f2e884cbbc124099d90
+run_name: industrious-pig-735
+run_uuid: 5b8e5480ee504f2e884cbbc124099d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727010271723
+status: 4
+tags: []
+user_id: siddh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/siddh/OneDrive/Desktop/Projects/End-to-end%20House%20price%20pred/mlruns/0/6791a3ba914544d29d62e4f669ed9b17/artifacts
+end_time: 1726854223349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6791a3ba914544d29d62e4f669ed9b17
+run_name: calm-goose-785
+run_uuid: 6791a3ba914544d29d62e4f669ed9b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726854214418
+status: 3
+tags: []
+user_id: siddh

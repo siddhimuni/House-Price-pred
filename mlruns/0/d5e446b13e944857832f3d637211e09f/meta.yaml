@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/siddh/OneDrive/Desktop/Projects/End-to-end%20House%20price%20pred/mlruns/0/d5e446b13e944857832f3d637211e09f/artifacts
+end_time: 1727012077747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5e446b13e944857832f3d637211e09f
+run_name: selective-snipe-12
+run_uuid: d5e446b13e944857832f3d637211e09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727012072336
+status: 3
+tags: []
+user_id: siddh

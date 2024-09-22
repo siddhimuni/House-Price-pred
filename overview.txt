@@ -1,0 +1,8 @@
+1) src -> ingest_data , etc (all logic is written here using abstractclass and abstractmethod)
+
+2) analyze -> EDA 
+
+3) steps -> step functions for all src files that will be imported in the training_pipeline
+
+4) Pipelines -> training_pipeline -> pipeline containing all the steps from steps
+                run_pipeline -> import the training_pipeline and then run this, after that do  zenml up --blocking
